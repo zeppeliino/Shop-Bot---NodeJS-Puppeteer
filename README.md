@@ -20,7 +20,7 @@ Um das Projekt lokal auszuführen, folge diesen Schritten:
 
 1. **Repository klonen:**
    ```bash
-   git clone https://github.com/zeppeliino/shop-bot.git
+   git clone https://github.com/zeppeliino/Shop-Bot-NodeJS-Puppeteer.git
    cd shop-bot
    ```
 
