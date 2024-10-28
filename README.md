@@ -4,7 +4,7 @@
 
 ## 📜 Hinweis
 
-Dieser Shop Bot wurde zu **Bildungszwecken** erstellt. Die Nutzung dieser Software erfolgt **auf eigene Gefahr**. Bitte stelle sicher, dass du die geltenden Gesetze und Richtlinien befolgst, wenn du diese Software verwendest. Missbrauch oder illegale Aktivitäten sind nicht gestattet.
+Dieses Shop Bot Beispiel wurde zu **Bildungszwecken** erstellt. Die Nutzung dieses Projekts erfolgt **auf eigene Gefahr**. Bitte stelle sicher, dass du die geltenden Gesetze und Richtlinien befolgst, wenn du dieses Projekt verwendest. Missbrauch oder illegale Aktivitäten sind nicht gestattet.
 
 ---
 
