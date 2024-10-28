@@ -29,7 +29,7 @@ async function processNames(names) {
 
         while (attempts < 2 && !success) {
             try {
-                browser = await puppeteer.launch({ headless: false });
+                browser = await puppeteer.launch({ headless: true }); // True bedeutet das das Chrome Fenster nicht angezeigt wird und versteckt ausgeführt wird. Mit false wird Chrome angezeigt
                 const page = await browser.newPage();
                 await page.goto('LINK'); // Link zu der Seite, wo der Bot starten soll - z.B. in der Kategorie T-Shirts
                 await delay(2000);
